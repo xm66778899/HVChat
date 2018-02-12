@@ -4,4 +4,4 @@ import {
 
 import App from './src/App';
 
-AppRegistry.registerComponent('ChatApp', () => App);
+AppRegistry.registerComponent('HVChat', () => App);
